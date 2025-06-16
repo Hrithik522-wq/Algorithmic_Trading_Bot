@@ -31,18 +31,24 @@ A trading bot that analyzes the market using statistics, sentiment, technical an
 
 - ## 📂 Project Structure
 
-trading_bot/
-├── main.py
-├── data_fetcher.py
-├── statistical_analysis.py
-├── technical_analysis.py
-├── sentiment_analysis.py
-├── fundamental_analysis.py
-├── trading_strategy.py
-├── trade_log.csv
-├── .env (not uploaded)
-└── visuals/
-└── price_moving_avg.png
-└── volatility.png
+- trading_bot/
+- main.py
+- data_fetcher.py
+- statistical_analysis.py
+- technical_analysis.py
+- sentiment_analysis.py
+- fundamental_analysis.py
+- trading_strategy.py
+- trade_log.csv
+- .env (not uploaded)
+  
+- visuals/
+- price_moving_avg.png
+- volatility.png
+
+
+
+
+
 
 

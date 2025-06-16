@@ -1,0 +1,1 @@
+Charts like price_moving_avg.png and volatility.png will be saved here.
